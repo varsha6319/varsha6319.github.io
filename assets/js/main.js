@@ -117,7 +117,7 @@ let footer = $(`
     <i class="fab fa-github"></i>
       </a>
   <br>
-<p style="color:white;><a href=" ">varshacbendre@gmail.com</a></p>
+
 </div>
     </div>
 
@@ -127,24 +127,8 @@ let footer = $(`
         <h4 class="webintern_footer_title h5">
           <small>Get In Touch</small>
         </h4>
-        <!-- TT-SUBSCRIBE -->
+        <p style="color:white;><a href=" ">varshacbendre@gmail.com</a></p>
 
-      <div class="contact-form">
-          <form>
-              <fieldset class="form-group text-center">
-                  <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Name">
-              </fieldset>
-              <fieldset class="form-group text-center">
-                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-              </fieldset>
-              <fieldset class="form-group text-center">
-                  <textarea class="form-control" id="exampleMessage" placeholder="Message"></textarea>
-              </fieldset>
-              <fieldset class="form-group text-xs-right text-center">
-                  <button type="button" class="send-btn btn btn-lg">Send</button>
-              </fieldset>
-          </form>
-      </div>
         <div class="empty-space marg-lg-b30"></div>
       </div>
     </div>
