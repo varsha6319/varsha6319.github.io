@@ -13,7 +13,7 @@ const research = [
         researchYr : 2019,
         citebox : "#popup1",
         image : "assets/images/research-page/LipReading.png",
-        link : "https://drive.google.com/file/d/1j4N_NBZFKLAMiGRGaob9g7AAoyNcwLB9/view?usp=sharing"
+        link : "https://github.com/varsha6319/varsha6319.github.io/blob/master/assets/docs/LipReading.pdf"
     },
 
     {
@@ -23,7 +23,7 @@ const research = [
         researchYr : 2018,
         citebox : "#popup2",
         image : "assets/images/research-page/chatbot.png",
-        link : "https://drive.google.com/file/d/0B92n68YUk4i9dXExZEJ5cDVfVWl3TlV4WmE1SXFoNGpBNmJn/view?usp=sharing"
+        link : "https://github.com/varsha6319/varsha6319.github.io/blob/master/assets/docs/ChatBot.pdf"
     },
 
     {
@@ -33,7 +33,7 @@ const research = [
         researchYr : 2018,
         citebox : "#popup3",
         image : "assets/images/research-page/blockchain.png",
-        link : "https://drive.google.com/file/d/1-sKyDvuY7_MOacX6okMNpRUXPJ69m_4G/view?usp=sharing"
+        link : "https://github.com/varsha6319/varsha6319.github.io/blob/master/assets/docs/Blockchain.pdf"
     },
 ];
 
