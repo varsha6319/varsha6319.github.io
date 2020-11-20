@@ -127,7 +127,7 @@ let footer = $(`
         <h4 class="webintern_footer_title h5">
           <small>Get In Touch</small>
         </h4>
-        <p style="color:white;><a href=" ">varshacbendre@gmail.com</a></p>
+        <p style="color:white;><a href="https://mail.google.com/mail/?view=cm&fs=1&to=varshacbendre@gmail.com">varshacbendre@gmail.com</a></p>
 
         <div class="empty-space marg-lg-b30"></div>
       </div>
