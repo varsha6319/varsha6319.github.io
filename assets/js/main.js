@@ -66,7 +66,7 @@ let header = $(`
 <li><a href="research.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="blog.html">Blog</a></li>
-<li><a href="https://drive.google.com/file/d/18bSb6t3Zqj98D3GF3TtC5-3PhjvOToxm/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://github.com/varsha6319/varsha6319.github.io/blob/master/assets/docs/VarshaCBendreResume.pdf" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
