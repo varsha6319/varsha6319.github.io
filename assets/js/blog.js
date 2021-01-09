@@ -14,6 +14,12 @@ const projects = [
     description:"Splitting of nodes for Regression problems",
     Previewlink: "https://medium.com/analytics-vidhya/decision-tree-part-2-c6e57a0a2c61",
   },
+  {
+    title: "Back-propagation Algorithm",
+    cardImage: "assets/images/blog-page/neuralNetwork.png",
+    description:"Detailed mathematical approach to back propagate",
+    Previewlink: "https://medium.com/analytics-vidhya/back-propagation-algorithm-170b5f16790a",
+  },
 ];
 
 const showCards = () => {
