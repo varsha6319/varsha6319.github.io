@@ -7,7 +7,7 @@ const exp = [
     cardImage: "assets/images/experience-page/AIA.jpeg",
     place: "AI Australia, Melbourne, Australia",
     time: "(Aug 2020 – present)",
-    desp: "<li></li>",
+    desp: "<li>Project lead: Behavioural Factorization through Conversational Analysis project</li>",
   },
   {
     title: "Data Science Intern",
