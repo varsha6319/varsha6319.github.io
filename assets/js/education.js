@@ -101,14 +101,14 @@ const timelinesection = [
   {
     heading: "RMIT University",
     image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Masters in Artificial Intelligence, (2020-present)",
+    subheading:"Masters in Artificial Intelligence, (Feb 2020-present)",
     description: "<li>Minor thesis: Federated learning for Human mobility models</li><li>Recipient (Masters for AI Scholarship for Indian and Sri Lankan Students)</li><li>Payload team Member of HIVE(RMIT's student-led rocketry team)</li><li>GPA(Year 1): 3.3</li>",
   },
 
   {
     heading: "Sir M Visvesvaraya Institute of Technology",
     image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Computer Science & Engineering, (2015-2019)",
+    subheading:"Bachelors of Computer Science & Engineering, (Aug 2015-Jul 2019)",
     description: "<li>Electives: Artificial Intelligence; Data mining & Data Warehousing; Digital Image Processing</li><li>Undergraduate Coursework: Operating Systems; Databases; Algorithms; Programming Languages; Computer Architecture; Calculus III.</li><li>GPA: 3.5</li>",
   },
 ];
