@@ -42,6 +42,7 @@ let header = $(`
         <li><a class="white-text" href="research.html">Research</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="blog.html">Blog</a></li>
+        <li><a class="white-text" href="EthicalAI.html">EthicalAI</a></li>
         <li><a class="white-text" href="assets/docs/VarshaCBendreResume.pdf" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
@@ -70,6 +71,7 @@ let header = $(`
 <li><a href="research.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="blog.html">Blog</a></li>
+<li><a href="EthicalAI.html">EthicalAI</a></li>
 <li><a href="assets/docs/VarshaCBendreResume.pdf" target="_blank">My Resume</a></li>
 
 
